@@ -1,4 +1,5 @@
-# Proyecto: Sistema Web de Gestión de Rutas de Recolección de Basura – Buenaventura  
+# PROYECTO
+> Sistema Web de Gestión de Rutas de Recolección de Basura – Buenaventura  
 
 # Contexto del Problema  
 En **Buenaventura (Colombia)** los ciudadanos enfrentan dificultades con la recolección de basura:  
@@ -11,22 +12,13 @@ En **Buenaventura (Colombia)** los ciudadanos enfrentan dificultades con la reco
 
 ---
 #  Objetivos del Proyecto  
-1. 
-- Diseñar e implementar una **aplicación web en Angular standalone**.  
-2. 
-- Informar los **horarios y rutas de los camiones** de manera clara y confiable.  
-3. 
-- Simular y visualizar recorridos en un **mapa interactivo**.  
-4. 
-- Integrar un flujo de trabajo ágil con **GitHub (issues, ramas, PRs, revisiones)**.  
-5. 
-- Configurar pipelines de **CI/CD en GitHub Actions**.  
-6. 
-- Automatizar despliegues en **staging y producción**.  
-7. 
-- Garantizar **calidad y seguridad** con pruebas automatizadas y linters.  
-8. 
-- Documentar y presentar el proyecto con un **informe en Markdown** y una **exposición final**.  
-
+1. - Diseñar e implementar una **aplicación web en Angular standalone**.  
+2. - Informar los **horarios y rutas de los camiones** de manera clara y confiable.  
+3. - Simular y visualizar recorridos en un **mapa interactivo**.  
+4. - Integrar un flujo de trabajo ágil con **GitHub (issues, ramas, PRs, revisiones)**.  
+5. - Configurar pipelines de **CI/CD en GitHub Actions**.  
+6. - Automatizar despliegues en **staging y producción**.  
+7. - Garantizar **calidad y seguridad** con pruebas automatizadas y linters.  
+8. - Documentar y presentar el proyecto con un **informe en Markdown** y una **exposición final**.  
 ---
 
