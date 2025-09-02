@@ -22,13 +22,13 @@ En **Buenaventura (Colombia)** los ciudadanos enfrentan dificultades con la reco
 8. - Documentar y presentar el proyecto con un **informe en Markdown** y una **exposición final**.  
 ---
 # Guia visual
-# Así se ve freecuentemenete/Evidencia 
-Esta imagen describe lo que estoy escribiendo
+# Así se ve freecuentemenete
+Evidencias 
 >
 ![](Imagenes/Basura-1.png)
 ---
-# Descripción de lo añadido/Evidencia
-Esta imagen describe lo que estoy escribiendo
+# Descripción de lo añadido
+Evidencias
 >
 ![](Imagenes/Basura-2.png)
 ---
