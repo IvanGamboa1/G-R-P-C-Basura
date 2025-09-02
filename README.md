@@ -21,12 +21,13 @@ En **Buenaventura (Colombia)** los ciudadanos enfrentan dificultades con la reco
 7. - Garantizar **calidad y seguridad** con pruebas automatizadas y linters.  
 8. - Documentar y presentar el proyecto con un **informe en Markdown** y una **exposición final**.  
 ---
+
 # Guia visual
 # Así se ve freecuentemenete/Evidencia 
 > Esta imagen describe lo que estoy escribiendo
-![](Imagenes/Basura-2.png)
+![](Imagenes/Basura-1.png)
 
 # Descripción de lo añadido/Evidencia
 > Esta imagen describe lo que estoy escribiendo
-![](Imagenes/Basura-1.png)
+![](Imagenes/Basura-2.png)
 ---
