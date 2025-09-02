@@ -24,7 +24,7 @@ En **Buenaventura (Colombia)** los ciudadanos enfrentan dificultades con la reco
 # Guia visual
 # Así se ve freecuentemenete 
 > Esta imagen describe lo que estoy escribiendo
-![](Imagenes/Basura-2.jpn)
+![](Imagenes/Basura-2.jpg)
 > Descripción de lo añadido
 ![](Imagenes/Basura-1.png)
 ---
