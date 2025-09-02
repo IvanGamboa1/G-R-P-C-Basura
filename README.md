@@ -30,13 +30,8 @@ En **Buenaventura (Colombia)** los ciudadanos enfrentan dificultades con la reco
 # Descripción de lo añadido/Evidencia
 > Esta imagen describe lo que estoy escribiendo
 ![](Imagenes/Basura-2.png)
-
-# Descripción de lo añadido/Evidencia
-> Esta imagen describe lo que estoy escribiendo
-![](Imagenes/Basura-2.png)
-
 ---
-## 📅 Planeador Semanal  
+#  Planeador Semanal  
 
 | Semana | Tema / Contenido | Actividad clave | Entregable |
 |--------|------------------|-----------------|------------|
